@@ -1,7 +1,7 @@
 ### 0.4.21 (unreleased)
 
 Features:
-
+ * C99/C++-style scoping rules (instead of JavaScript function scoping) take effect as experimental v0.5.0 feature.
 
 Bugfixes:
 
